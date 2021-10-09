@@ -1,2 +1,2 @@
 # information_disclosure_test_scripts
-Information disclosure pentesting scripts
+Information disclosure step by step pentesting scripts
