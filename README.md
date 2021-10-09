@@ -1,0 +1,2 @@
+# information_disclosure_test_scripts
+Information disclosure pentesting scripts
